@@ -6,3 +6,7 @@
 \.metadata/
 Servers/
 target/
+obj/
+bin/
+make_obj/
+main
